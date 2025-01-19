@@ -1,0 +1,72 @@
+[
+  {
+    "id": 92,
+    "description": "Shopping",
+    "amount": "100.00",
+    "date": "2024-10-08T04:00:00.000Z",
+    "type": "expense"
+  },
+  {
+    "id": 93,
+    "description": "Mall Shooping",
+    "amount": "150.00",
+    "date": "2024-11-13T05:00:00.000Z",
+    "type": "expense"
+  },
+  {
+    "id": 94,
+    "description": "Christmas shoping",
+    "amount": "200.00",
+    "date": "2024-12-06T05:00:00.000Z",
+    "type": "expense"
+  },
+  {
+    "id": 95,
+    "description": "Fall shopping",
+    "amount": "50.00",
+    "date": "2024-09-18T04:00:00.000Z",
+    "type": "expense"
+  },
+  {
+    "id": 96,
+    "description": "Work pay",
+    "amount": "150.00",
+    "date": "2024-09-20T04:00:00.000Z",
+    "type": "income"
+  },
+  {
+    "id": 97,
+    "description": "Studio Pay",
+    "amount": "200.00",
+    "date": "2024-10-16T04:00:00.000Z",
+    "type": "income"
+  },
+  {
+    "id": 98,
+    "description": "Tour Guide Pay",
+    "amount": "250.00",
+    "date": "2024-11-14T05:00:00.000Z",
+    "type": "income"
+  },
+  {
+    "id": 99,
+    "description": "Studio Pay",
+    "amount": "100.00",
+    "date": "2024-12-11T05:00:00.000Z",
+    "type": "income"
+  },
+  {
+    "id": 100,
+    "description": "Shopping",
+    "amount": "250.00",
+    "date": "2024-09-29T04:00:00.000Z",
+    "type": "expense"
+  },
+  {
+    "id": 101,
+    "description": "Christmass Shopping",
+    "amount": "200.00",
+    "date": "2024-12-11T05:00:00.000Z",
+    "type": "expense"
+  }
+]
